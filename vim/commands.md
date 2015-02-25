@@ -41,8 +41,8 @@ U				| Undo all latest changes on one line
 
 ### Moving Around
 
-##### A word consists of a sequence of letters, digits and underscores, or a sequence of other non-blank characters, separated by whitespaces (\s, \t, ... ).
-##### A WORD consists of a sequence of non-blank characters, separated by whitespaces. An empty line is also considered to be a word and a WORD.
+- A word consists of a sequence of letters, digits and underscores, or a sequence of other non-blank characters, separated by whitespaces (\s, \t, ... ).
+- A WORD consists of a sequence of non-blank characters, separated by whitespaces. An empty line is also considered to be a word and a WORD.
 
 cmd | decription
 ----------------|---------------------
